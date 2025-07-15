@@ -30,16 +30,12 @@ A real-time 3D motion tracker that visualizes orientation data (roll and pitch) 
 - Roll and pitch values are shown on screen.
 - Move your sensor to see the box rotate accordingly.
 
-## Project Name Ideas
-- MotionCube
-- Track3D
-- GyroBox
-- OrientaBox
-- PoseViz
-- AxisTracker
 
 ## Team Credits
-- [Your Names Here]
+- Siddharth
+- Toshit
+- Utkarsh
+- Pratik
 
 ## Suggestions for Improvements
 - Add data logging (save roll/pitch to a file)
