@@ -30,10 +30,9 @@ A real-time 3D motion tracker that visualizes orientation data (roll and pitch) 
 - Roll and pitch values are shown on screen.
 - Move your sensor to see the box rotate accordingly.
 
-
 ## Team Credits
-- Siddharth
-- Toshit
+- [Siddharth Nambiar](https://github.com/ShadowstrikeSupremacy)
+- [Toshit Warke](https://github.com/geniusdw)
 - Utkarsh
 - Pratik
 
@@ -56,4 +55,4 @@ A demonstration video of the MotionCube in action is included in this repository
 
 [Download Demo Video](demo.mp4)
 
-To view the demo, download the file and open it with your preferred media player. 
+To view the demo, download the file and open it with your preferred media player.
